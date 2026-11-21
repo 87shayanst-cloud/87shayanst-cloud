@@ -50,3 +50,6 @@ Currently Learning
 <p align="center">
   <b>Always Learning. Always Building.</b>
 </p>
+<p align="center">
+  <i>"I want to solve problems and build things that others consider difficult or even impossible."</i>
+</p><h3 align="center">Think Beyond Limits. Build the Impossible.</h3>
