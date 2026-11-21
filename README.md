@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Shayan 👋</h1><h3 align="center">Junior Full-Stack Web Developer</h3><p align="center">
   Building web applications and turning ideas into real products.
 </p>---
@@ -10,6 +11,9 @@ I'm a Junior Full-Stack Web Developer interested in building modern, functional,
 - 💻 Interested in building real-world software products.
 - 🔭 Working on improving my software architecture and development skills.
 - 🚀 Focused on learning, building, and growing as a developer.
+
+---
+
 🛠️ Technical Skills
 
 Frontend
@@ -19,7 +23,8 @@ Frontend
 </p>Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="48" height="48" />
 </p>Database
 
 <p>
@@ -28,7 +33,7 @@ Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-</p>
+</p>---
 
 🎯 My Goals
 
@@ -41,7 +46,6 @@ Frontend
 
 <p align="center">
   <b>Always Learning. Always Building.</b>
-</p>
-<p align="center">
+</p><p align="center">
   <i>"I want to solve problems and build things that others consider difficult or even impossible."</i>
 </p><h3 align="center">Think Beyond Limits. Build the Impossible.</h3>
