@@ -10,33 +10,25 @@ I'm a Junior Full-Stack Web Developer interested in building modern, functional,
 - 💻 Interested in building real-world software products.
 - 🔭 Working on improving my software architecture and development skills.
 - 🚀 Focused on learning, building, and growing as a developer.
-
 🛠️ Technical Skills
 
 Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Vite
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>Backend
 
-Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio" />
+</p>Database
 
-- Node.js
-- Express.js
-- REST APIs
-- Socket.IO
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>Currently Learning
 
-Database
-
-- MySQL
-
-Currently Learning
-
-- Python
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 🎯 My Goals
 
